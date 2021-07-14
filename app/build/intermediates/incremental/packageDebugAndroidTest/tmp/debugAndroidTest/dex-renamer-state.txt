@@ -1,0 +1,4 @@
+#Tue Jul 13 18:51:33 ICT 2021
+base.0=D\:\\JTK\\Tugas\\Semester 4\\PPB\\Minggu16\\TwoActivities\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
